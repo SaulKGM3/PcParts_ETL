@@ -25,7 +25,7 @@ Below you can find a visual summary of the ETL process steps included in this pr
    ![Python To SQL](Flow%20Images/Python%20To%20SQL.png)
 
 4. **Validation of loaded data in SQL**  
-   ![SQL Data Validation](Flow%20Images/SQL%20Data%20Validation.png)
+   ![Validation in SQL](Flow%20Images/SQL.png)
 
 5. **Data loaded into Power BI from SQL**  
    ![Data Load Into Power BI From SQL](Flow%20Images/Data%20Load%20Into%20Power%20BI%20From%20SQL.png)
